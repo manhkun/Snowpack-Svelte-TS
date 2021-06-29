@@ -1,0 +1,13 @@
+{
+  "type": "horizontal",
+  "isModal": true,
+  "color": "#b2c38f",
+  "title": "Wait, don't miss our deals!",
+  "addToCart": "Add",
+  "addedToCart": "",
+  "continueToCheckout": "Continue to checkout",
+  "colorCart": "rgba(78, 46, 46, 0.22)",
+  "yourCart": "",
+  "icon": "",
+  "customCSS": ""
+}

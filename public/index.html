@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title><%= htmlWebpackPlugin.options.title %></title>
+  <script text="javascript">
+    var xoUpsell = 124;
+    var Shopify = Shopify || {};
+    Shopify.shop = "phungmanh.myshopify.com";
+    Shopify.locale = "en";
+    Shopify.currency = {"active":"$","rate":"1.0"};
+    Shopify.theme = {"name":"Simple2","id":79038873718,"theme_store_id":578,"role":"main"};
+    Shopify.theme.handle = "null";
+    Shopify.theme.style = {"id":null,"handle":null};
+    Shopify.cdnHost = "cdn.shopify.com";
+  </script>
+</head>
+<body>
+  <form action="/cart" method="POST">
+    <button id="button-checkout" class="button-checkout" type="submit" name="checkout">Open</button>
+  </form>
+  <main class="main-content"></main>
+
+  <script type="module" src="/dist/index.js"></script>
+</body>
+</html>

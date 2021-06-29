@@ -1,0 +1,47 @@
+{
+  "id": 80,
+  "title": "ưqeqwe",
+  "products": [
+    {
+      "id": "5965571686588",
+      "title": "Jisoo 2",
+      "handle": "jisoo-2",
+      "image": "https://cdn.shopify.com/s/files/1/0501/8478/2012/products/65608283_2049718075336710_1910576614912032768_n.jpg?v=1603190040",
+      "totalInventory": 6,
+      "variants": [
+        {
+          "id": "37142401614012",
+          "public_title": " red / M",
+          "description": "This is the best variant",
+          "price": 99999999,
+          "quantity": 10,
+          "isDiscount": false,
+          "amountOff": 50,
+          "amountOffType": "percentage"
+        }
+      ]
+    },
+    {
+      "id": "5965571293372",
+      "title": "Jisoo ",
+      "handle": "jisoo",
+      "image": "https://cdn.shopify.com/s/files/1/0501/8478/2012/products/jisoo-1.jpg?v=1620966197",
+      "totalInventory": 1,
+      "variants": [
+        {
+          "id": "39824462053564",
+          "public_title": " red / M",
+          "description": "This is the best variant",
+          "price": 9999999992,
+          "quantity": 2,
+          "isDiscount": false,
+          "amountOff": 50,
+          "amountOffType": "percentage"
+        }
+      ]
+    }
+  ],
+  "active": true,
+  "minimumPrice": 0,
+  "maximumPrice": null
+}
